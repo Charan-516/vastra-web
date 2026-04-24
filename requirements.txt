@@ -1,7 +1,0 @@
-# NOTE: This is a Node.js/React project, not a Python project.
-# You do NOT use `pip install -r requirements.txt` for this project.
-
-# To install all necessary dependencies for this application, run:
-npm install
-
-# (This command reads the 'package.json' file and installs all required packages, including React, Tailwind CSS, Vite, Supabase, and more).
